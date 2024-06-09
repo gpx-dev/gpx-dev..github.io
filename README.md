@@ -1,2 +1,2 @@
-# gpx-dev..github.io
+# gpx-dev.github.io
 git hub page
